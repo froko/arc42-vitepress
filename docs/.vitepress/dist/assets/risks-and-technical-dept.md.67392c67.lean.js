@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as s,d as a}from"./app.d91ec24d.js";const g=JSON.parse('{"title":"Risks and Technical Debts","description":"","frontmatter":{},"headers":[],"relativePath":"risks-and-technical-dept.md"}'),n={name:"risks-and-technical-dept.md"},i=a("",8),r=[i];function o(c,d,p,l,h,_){return s(),t("div",null,r)}const u=e(n,[["render",o]]);export{g as __pageData,u as default};

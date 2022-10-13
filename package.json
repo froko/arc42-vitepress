@@ -1,0 +1,19 @@
+{
+  "name": "arc42-vitepress",
+  "version": "1.0.0",
+  "description": "VitePress template for Arc42",
+  "author": "Patrick Ineichen",
+  "keywords": ["vitepress", "arc42"],
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "start": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress serve docs"
+  },  
+  "devDependencies": {
+    "@algolia/client-search": "^4.14.2",
+    "vitepress": "1.0.0-alpha.20",
+    "vue": "^3.2.40"
+  }
+}

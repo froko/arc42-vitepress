@@ -1,0 +1,1 @@
+import{_ as e,c as t,o,d as s}from"./app.d91ec24d.js";const _=JSON.parse('{"title":"Solution Strategy","description":"","frontmatter":{},"headers":[],"relativePath":"solution-strategy.md"}'),a={name:"solution-strategy.md"},n=s("",9),i=[n];function r(l,c,d,p,h,u){return o(),t("div",null,i)}const y=e(a,[["render",r]]);export{_ as __pageData,y as default};
