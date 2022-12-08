@@ -1,5 +1,8 @@
-Glossary 
-========
+---
+title: 'Glossary'
+---
+
+# {{ $frontmatter.title }}
 
 **Contents.**
 

@@ -1,5 +1,8 @@
-Introduction and Goals
-======================
+---
+title: 'Introduction and Goals'
+---
+
+# {{ $frontmatter.title }}
 
 Describes the relevant requirements and the driving forces that software
 architects and development team must consider. These include
@@ -12,8 +15,7 @@ architects and development team must consider. These include
 -   relevant stakeholders and their expectations
 
 
-Requirements Overview
----------------------
+## Requirements Overview
 
 **Contents.**
 
@@ -36,8 +38,7 @@ documents.
 Keep these excerpts as short as possible. Balance readability of this
 document with potential redundancy w.r.t to requirements documents.
 
-Quality Goals
--------------
+## Quality Goals
 
 **Contents.**
 
@@ -57,8 +58,7 @@ architect do not know how the quality of your work will be judged …
 
 A table with quality goals and concrete scenarios, ordered by priorities
 
-Stakeholders
-------------
+## Stakeholders
 
 **Contents.**
 

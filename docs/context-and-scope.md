@@ -1,5 +1,8 @@
-System Scope and Context
-========================
+---
+title: 'System Scope and Context'
+---
+
+# {{ $frontmatter.title }}
 
 **Contents.**
 
@@ -26,8 +29,7 @@ Various options:
 -   Lists of communication partners and their interfaces.
 
 
-Business Context
-----------------
+## Business Context
 
 **Contents.**
 
@@ -55,8 +57,7 @@ the communication partner, the inputs, and the outputs.
 **&lt;optionally: Explanation of external domain interfaces&gt;**
 
 
-Technical Context
------------------
+## Technical Context
 
 **Contents.**
 

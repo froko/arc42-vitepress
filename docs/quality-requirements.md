@@ -1,5 +1,8 @@
-Quality Requirements 
-====================
+---
+title: 'Quality Requirements'
+---
+
+# {{ $frontmatter.title }}
 
 **Content.**
 
@@ -16,8 +19,7 @@ Since quality requirements will have a lot of influence on architectural
 decisions you should know for every stakeholder what is really important
 to them, concrete and measurable.
 
-Quality Tree
-------------
+## Quality Tree
 
 **Content.**
 
@@ -42,8 +44,7 @@ requirements:
 In any case the tree should include links to the scenarios of the
 following section.
 
-Quality Scenarios
------------------
+## Quality Scenarios
 
 **Contents.**
 

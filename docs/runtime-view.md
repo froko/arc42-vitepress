@@ -1,5 +1,8 @@
-Runtime View 
-============
+---
+title: 'Runtime View'
+---
+
+# {{ $frontmatter.title }}
 
 **Contents.**
 
@@ -45,8 +48,7 @@ There are many notations for describing scenarios, e.g.
 
 -   …
 
-&lt;Runtime Scenario 1&gt;
---------------------------
+## &lt;Runtime Scenario 1&gt;
 
 -   *&lt;insert runtime diagram or textual description of the
     scenario&gt;*
@@ -54,12 +56,10 @@ There are many notations for describing scenarios, e.g.
 -   *&lt;insert description of the notable aspects of the interactions
     between the building block instances depicted in this diagram.&gt;*
 
-&lt;Runtime Scenario 2&gt; 
---------------------------
+## &lt;Runtime Scenario 2&gt; 
   
 ...
 
-&lt;Runtime Scenario n&gt; 
--------------------------- 
+## &lt;Runtime Scenario n&gt; 
   
 ...

@@ -1,6 +1,9 @@
-Cross-cutting Concepts 
-======================
+---
+title: 'Cross-cutting Concepts'
+---
 
+# {{ $frontmatter.title }}
+ 
 **Content.**
 
 This section describes overall, principal regulations and solution ideas
@@ -65,19 +68,16 @@ specific topic on this list.
 
 ![Possible topics for crosscutting concepts](images/08-Crosscutting-Concepts-Structure-EN.png)
 
-*&lt;Concept 1&gt;* 
--------------------
+## *&lt;Concept 1&gt;* 
 
 *&lt;explanation&gt;*
 
-*&lt;Concept 2&gt;* 
--------------------
+## *&lt;Concept 2&gt;* 
 
 *&lt;explanation&gt;*
 
 …
 
-*&lt;Concept n&gt;* 
--------------------
+## *&lt;Concept n&gt;* 
 
 *&lt;explanation&gt;*

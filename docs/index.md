@@ -1,4 +1,8 @@
-# About arc42
+---
+title: 'About arc42'
+---
+
+# {{ $frontmatter.title }}
  
 arc42, the Template for documentation of software and system
 architecture.

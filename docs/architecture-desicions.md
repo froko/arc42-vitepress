@@ -1,5 +1,8 @@
-Design Decisions 
-================
+---
+title: 'Design Decisions'
+---
+
+# {{ $frontmatter.title }}
 
 **Contents.**
 

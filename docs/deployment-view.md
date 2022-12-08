@@ -1,5 +1,8 @@
-Deployment View 
-===============
+---
+title: 'Deployment View'
+---
+
+# {{ $frontmatter.title }}
 
 **Content.**
 
@@ -46,8 +49,7 @@ additional deployment diagrams:
     rather than the deployment diagram, let them use any kind that is
     able to show nodes and channels of the infrastructure.
 
-Infrastructure Level 1
-----------------------
+## Infrastructure Level 1
 
 Describe (usually in a combination of diagrams, tables, and text):
 
@@ -80,8 +82,7 @@ Mapping of Building Blocks to Infrastructure
 
 
 
-Infrastructure Level 2
-----------------------
+## Infrastructure Level 2
 
 Here you can include the internal structure of (some) infrastructure
 elements from level 1.

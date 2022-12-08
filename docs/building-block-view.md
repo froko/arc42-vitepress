@@ -1,5 +1,8 @@
-Building Block View
-===================
+---
+title: 'Building Block View'
+---
+
+# {{ $frontmatter.title }}
 
 **Content.**
 
@@ -36,8 +39,7 @@ together with black box descriptions of their internal building blocks.
 
 **Level 3** zooms into selected building blocks of level 2, and so on.
 
-Whitebox Overall System
------------------------
+## Whitebox Overall System
 
 Here you describe the decomposition of the overall system using the
 following white box template. It contains
@@ -142,8 +144,7 @@ box template:
 
 ### &lt;Name interface m&gt;
 
-Level 2
--------
+## Level 2
 
 Here you can specify the inner structure of (some) building blocks from
 level 1 as white boxes.
@@ -169,8 +170,7 @@ standardized parts of your system
 
 *&lt;white box template&gt;*
 
-Level 3
--------
+## Level 3
 
 Here you can specify the inner structure of (some) building blocks from
 level 2 as white boxes.

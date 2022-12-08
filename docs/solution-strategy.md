@@ -1,5 +1,8 @@
-Solution Strategy
-=================
+---
+title: 'Solution Strategy'
+---
+
+# {{ $frontmatter.title }}
 
 **Contents.**
 

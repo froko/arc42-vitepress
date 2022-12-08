@@ -1,5 +1,8 @@
-Architecture Constraints
-========================
+---
+title: 'Architecture Constraints'
+---
+
+# {{ $frontmatter.title }}
 
 **Contents.**
 
