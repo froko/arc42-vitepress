@@ -1,1 +1,0 @@
-import{_ as e,c as t,o,d as i}from"./app.d91ec24d.js";const m=JSON.parse('{"title":"Design Decisions","description":"","frontmatter":{},"headers":[],"relativePath":"architecture-desicions.md"}'),r={name:"architecture-desicions.md"},s=i("",10),n=[s];function a(c,d,p,l,u,h){return o(),t("div",null,n)}const g=e(r,[["render",a]]);export{m as __pageData,g as default};
